@@ -1,6 +1,0 @@
-sign vs cosine functions
-sigmoid function
-logistic function
-lol
-idk
-ez
